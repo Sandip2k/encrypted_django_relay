@@ -7,7 +7,7 @@ Ok, you are reading this means you are interested in this project. Please feel f
 - Python3
 #### Pip installs : 
 - pycryptodome
-- crpytography
+- cryptography
 
 # Usage
 First you have to host the Django project in a server or your Local PC such that the public IP is visible. Then generate a key from Fernet() and decode it into string and replace in the key field of server.py and client.py. And yaa! you're good to go.
